@@ -1,3 +1,3 @@
 # helloworld2
 
-Contains requirements for Lab 1 part 2. A program capable of printing helloworld and some commit test text via command line.
+Contains requirements for Lab 2. Testing commit changes and merge conflict + resoloutions.
