@@ -1,3 +1,3 @@
 # helloworld2
 
-Contains requirements for Lab 2. Testing commit changes and merge conflict + resolutions.
+Contains requirements for Lab 1 part 2. Testing commits and adding a program.
